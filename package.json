@@ -1,5 +1,5 @@
 {
-  "name": "mfe-canvas",
+  "name": "tethysdash-custom-visualization-example",
   "version": "0.1.3",
   "private": false,
   "main": "dist/index.js",
